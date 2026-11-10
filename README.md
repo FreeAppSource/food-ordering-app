@@ -1,5 +1,7 @@
 # Khaika Food Ordering App (Homemaker Delivery)
 
+> 👨‍💻 Developed by **[Suresh Kumar Meesala](https://github.com/SureshKumarMeesala)** · 🎨 UI design by **Madhan R** (credits below)
+
 A mobile application built for **Khaika** — empowering homemakers across Coimbatore by delivering healthy, hygienic, authentic desi meals directly to customer doorsteps or for self-pickup.
 
 Based on the 28 Sketch artboards (`food-ordering-app-madhanr.sketch` in the `UI artboard` page).
@@ -57,6 +59,21 @@ npx expo start
 Then press `i` for the iOS simulator, `a` for Android, or `w` for the web, or scan the QR code with Expo Go.
 
 <!-- run-locally:end -->
+
+<!-- developer:start -->
+
+## 👨‍💻 Developer
+
+This React Native app was developed by **Suresh Kumar Meesala**.
+
+| | |
+|---|---|
+| Developer | [Suresh Kumar Meesala](https://github.com/SureshKumarMeesala) |
+| GitHub | [@SureshKumarMeesala](https://github.com/SureshKumarMeesala) |
+| Organization | [FreeAppSource](https://github.com/FreeAppSource) |
+| Repository | <https://github.com/FreeAppSource/food-ordering-app> |
+
+<!-- developer:end -->
 
 ---
 
